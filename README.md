@@ -92,4 +92,4 @@ images/
 
 M.S. Applied Economics
 
-Healthcare Analytics | Business Intelligence | SQL | Power BI | R
+Analytics | Business Intelligence | SQL | Power BI | R
