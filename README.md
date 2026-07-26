@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This project demonstrates an end-to-end healthcare analytics workflow using a dataset from Kaggle containing 100,000 cancer patient records.
+This project demonstrates healthcare analytics workflow using a dataset from Kaggle containing 100,000 cancer patient records.
 
 The objective was to identify demographic and clinical factors associated with patient survival while demonstrating the complete analytics lifecycle—from data preparation to visualization, statistical modeling, and business recommendations.
 
